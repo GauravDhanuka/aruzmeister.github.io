@@ -11,7 +11,7 @@ Loves an open source and free software. Mostly inspired by a software freedom ac
   “Free software is software that respects your freedom and the social solidarity of your community. So it’s free as in freedom.”
 </p>
 
-
+<img src="{{ page.image }}" />
 
 
 Built my first website with HTML when I was 15. Started learning *How to be Hacker* after watching [Swordfish](http://www.imdb.com/title/tt0244244/) while i was in high school. Since then I’ve been spending time building web apps and sites using various frameworks on Ruby, Nodejs & Golang.
