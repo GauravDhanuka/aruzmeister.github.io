@@ -4,7 +4,7 @@ title: Hello Blogging
 description: ""
 category: null
 tags: []
-published: false
+published: true
 ---
 
 When I first started to create my blog in WordPress, it was awful job to manage all CMS customization etc then again i tried Blogspot it was really easy to set up but all it was *Copy & Paste* not a platform to learn & hack with code.
