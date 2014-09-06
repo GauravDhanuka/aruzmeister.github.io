@@ -1,6 +1,6 @@
 ---
 layout: page
-image: /public/pic.JPG
+image: /public/profilepic.jpg
 title: About Me!!!
 ---
 I’m a passionate self-taught full-stack web-developer. Loves hacking with Ruby and Go. A Rails enthusiast *“i love to make web app”*. 
