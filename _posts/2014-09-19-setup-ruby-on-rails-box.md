@@ -6,13 +6,13 @@ category:
 tags: []
 ---
 
-Most people spend bit of time setting up their development work-space, there seems to be some uncertainty about setting up a lean and up-to-date local development environment. I’m no different, after a number of months tweaking and experimenting the following article details how I setup my environment for Ubuntu or Linux Mint. This tutorial will guide you through the steps of setting up an Ubuntu/Linux Mint local development machine for Ruby on Rails even if you are behind the proxy firewall (College or Company). 
+Most people spend bit of time setting up their development work-space, there seems to be some uncertainty about setting up a lean and up-to-date local development environment. I’m no different, after a number of months tweaking and experimenting the following article details how I setup my environment for Ubuntu or Linux Mint. This tutorial will guide you through the steps of setting up an Ubuntu or Linux Mint local development machine for Ruby on Rails even if you are behind the proxy firewall (College or Company). 
 
 In these tutorial i haven't mention and version specific installation, all those installation depends upon the current package update. So these article assumes that you have already installed the Ubuntu or Linux Mint on your machine.
 
 ### Overview
 
-We will be setting up a Ruby on Rails development environment on Linux Mint 17 or Ubuntu 14.10.The reason we're going to be using Ubuntu based operation system like Linux Mint is because the majority of code you write will be easy, fast and runs on a Linux server. Ubuntu is one of the easiest & user friendly Linux distributions to cope with. You don't need to be enough geeky to play with it, Most of thing are Graphical and as the time passes you will start using Linux Command "Which is best part!!!" .
+We will be setting up a Ruby on Rails development environment on Linux Mint 17 or Ubuntu 14.10. The reason we're going to be using Ubuntu based operation system like Linux Mint is because the majority of code you write will be easy, fast and runs on a Linux server. Ubuntu is one of the easiest & user friendly Linux distributions to cope with. You don't need to be enough geeky to play with it, most of thing are Graphical and as the time passes you will start using Linux Command "Which is best part!!!" .
 If you haven't downloaded then please go through below link to get one of following distribution.
 
 [Ubuntu](http://www.ubuntu.com/download/desktop)
@@ -27,7 +27,7 @@ Before installing Rails i have mention list of following packages which are nece
 ## 1. Git
 
 Git is a free and open-source distributed version control system, designed to handle everything from small to very large projects with speed and efficiency.” Git is the choice for version control among most Ruby on Rails developers. It will come in handy for the future.
-Before setting up Git, i would request to uses create account in [Github](https://github.com/)
+Before setting up Git, i would request to user create account in [Github](https://github.com/)
 
 ```sudo apt-get install git```
 
