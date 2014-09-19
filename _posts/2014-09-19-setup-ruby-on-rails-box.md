@@ -28,9 +28,9 @@ sudo apt-get install git
 
 After installation try configure Global Value for Git and SSH keys in Terminal.
 
-git config --global user.name "Your Name"
-git config --global user.email "your-email@address.com"
-ssh-keygen -t rsa -C "YOUR@EMAIL.com"
+``` git config --global user.name "Your Name" ```
+``` git config --global user.email "your-email@address.com" ```
+``` ssh-keygen -t rsa -C "YOUR@EMAIL.com" ```
 
 For Example:-
 
