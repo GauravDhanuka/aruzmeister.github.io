@@ -21,6 +21,9 @@ If you haven't downloaded then please go through below link to get one of follow
 
 Before installing Rails i have mention list of following packages which are necessary for development. Please don't skip or if you have already installed, then you can move forward.
 
+>Note:- For Proxy Firewall enabled user i would recommend to configure your proxy setting in 
+>/etc/apt/apt.conf and ~/.bashrc before installing below packages.
+
 ## 1. Git
 
 Git is a free and open-source distributed version control system, designed to handle everything from small to very large projects with speed and efficiency.” Git is the choice for version control among most Ruby on Rails developers. It will come in handy for the future.
@@ -51,7 +54,7 @@ Just press Enter or Yes when system prompt. Next step is to take the newly gener
 You can also open the file and copy all text 
 gedit ~/.ssh/id_rsa.pub 
 
-Note:- For those who have Proxy Firewall in there College or Organization follow the tricks because normally certain port are disabled. 
+>Note:- For those who have Proxy Firewall in there College or Organization follow the tricks because normally certain port are disabled. 
 
 Since certain ports are blocked we will be using Corkscrew to tunnel through Port 443.
 
@@ -77,7 +80,7 @@ aruzparajuli:rubyrocks
 ```
 
 
-Note:- Remember ~ means Home Directory of your Linux Machine. 
+>Note:- Remember ~ means Home Directory of your Linux Machine. 
 
 Once you've done this, you can check and see if it worked:
 
@@ -127,4 +130,4 @@ If above process of installion doesn't work just execute below command
 
 ## 5. Cloud Setup
 
-If you wish to run your own servers in localhost than it's ok. However, if you think to make your app public, it is much easier to deploy your application with a free “platform as a service” provider such as [Heroku](https://www.heroku.com/0 and [Shelly Cloud](https://shellycloud.com/). For installation you can go through documentation of designate website.
+If you wish to run your own servers in localhost than it's ok. However, if you think to make your app public, it is much easier to deploy your application with a free “platform as a service” provider such as [Heroku](https://www.heroku.com/) and [Shelly Cloud](https://shellycloud.com/). For installation you can go through documentation of designate website.
